@@ -15,7 +15,6 @@ window = display.set_mode((WIDTH, HEIGHT))
 display.set_caption("Ping-pong")
 clock = time.Clock()
 
-
 color_selection = False
 run = True
 finish = False
